@@ -38,7 +38,7 @@ npm install
 Crear archivo `.env` en `task-manager/` con:
 ```env
 # Base de datos
-DATABASE_URL=postgresql://neondb_owner:npg_GwK1ulA0iYDt@ep-muddy-term-acuhb5el-pooler.sa-east-1.aws.neon.tech/tasks?sslmode=require&channel_binding=require
+DATABASE_URL=URL BASE DE DATOS EN LA NUBE
 
 # Puerto 
 PORT=3000
